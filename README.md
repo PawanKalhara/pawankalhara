@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pawan Kalhara</h1>
-<h3 align="center">An undergraduate in computer Science from Sri Lanka. I like learning new things.</h3>
+<h3 align="center">An undergraduate in computer Science from Sri Lanka. I like Tech 👨🏻‍💻.</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
