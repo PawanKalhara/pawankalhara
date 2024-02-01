@@ -3,15 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently contributing to **open source projects on Github**
-
 - 🌱 I’m currently learning **Cloud (AWS), Microsoft Azure**
 
-- 💬 Ask me about **python,react**
+- 💬 Ask me about **HTML,CSS,JS,SQL,Bash**
 
 - 📫 How to reach me **pawankalhara926@gmail.com**
-
-- ⚡ Fun fact **I love playing guitar 🎸🎵**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
